@@ -1,0 +1,8 @@
+empno,empname,hiredate,salary,depno,title,depno,depname
+1001.0,Pan,2010-11-10,60000,100.0,senior engineer,100.0,IT
+1002.0,Lee,2008-03-22,34000,100.0,engineer,100.0,IT
+1007.0,Ho,2009-09-11,39000,100.0,engineer,100.0,IT
+1003.0,Hsu,2006-08-14,77000,200.0,manager,200.0,Accounting
+1005.0,Wang,2013-12-25,37000,200.0,engineer,200.0,Accounting
+1004.0,Wu,2011-04-04,67000,300.0,manager,300.0,Marketing
+1006.0,Hu,2007-07-06,44000,300.0,senior engineer,300.0,Marketing
