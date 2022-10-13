@@ -142,7 +142,7 @@ try:
     myresult = pd.read_sql_query(sql, pymysql)
     myresult.to_csv("output.csv", index = False)
 
-    print(type(pd.read_sql_query(sql, pymysql)))
+    # print(type(pd.read_sql_query(sql, pymysql)))
 
 except Exception as ex:
     print("資料庫連線失敗", ex)
